@@ -1,0 +1,2 @@
+C:\2\ISMDotNet4\Task 3\obj\Debug\Task 3.csprojResolveAssemblyReference.cache
+C:\2\ISMDotNet4\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache

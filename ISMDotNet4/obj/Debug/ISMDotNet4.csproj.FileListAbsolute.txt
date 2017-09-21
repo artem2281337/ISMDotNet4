@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ISMDotNet4\ISMDotNet4\bin\Debug\ISMDotNet4.exe.config
+C:\Users\User\source\repos\ISMDotNet4\ISMDotNet4\bin\Debug\ISMDotNet4.exe
+C:\Users\User\source\repos\ISMDotNet4\ISMDotNet4\bin\Debug\ISMDotNet4.pdb
+C:\Users\User\source\repos\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.exe
+C:\Users\User\source\repos\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.pdb
+C:\2\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.csprojResolveAssemblyReference.cache
+C:\2\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.csproj.CoreCompileInputs.cache
+C:\2\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.exe
+C:\2\ISMDotNet4\ISMDotNet4\obj\Debug\ISMDotNet4.pdb
+C:\2\ISMDotNet4\ISMDotNet4\bin\Debug\ISMDotNet4.exe.config
+C:\2\ISMDotNet4\ISMDotNet4\bin\Debug\ISMDotNet4.exe
+C:\2\ISMDotNet4\ISMDotNet4\bin\Debug\ISMDotNet4.pdb
